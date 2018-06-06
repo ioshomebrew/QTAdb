@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>Icons/refresh.png</file>
+        <file>Icons/Places-folder-icon.png</file>
+        <file>Icons/system-file-manager.png</file>
+        <file>Icons/system-software-install.png</file>
+        <file>Icons/utilities-terminal.png</file>
+    </qresource>
+</RCC>
